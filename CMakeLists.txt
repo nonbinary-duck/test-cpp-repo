@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-set(PROJ_NAME <PROJECT_NAME>)
+set(PROJ_NAME test-cpp-repo)
 
 # Set the compiler flags
 # Use Wall to give good feedback and use pthread so we can use threads
